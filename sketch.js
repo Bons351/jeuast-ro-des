@@ -112,6 +112,7 @@ function draw(){
        explosion.lifetime=10;
        grouprock.get(i).destroy();
        vie-=1;
+      score-=50;
     }
   }
  
