@@ -59,7 +59,7 @@ function draw(){
   text("Vies:"+vie,20,50);
   text ("Score:"+score,20,80);
   fill ("red");
-  text ("Best score:"+bestscore,LARGEUR-150,50);
+  text ("Best score:"+bestscore,LARGEUR-200,50);
   
   //faire démarrer le jeu avec le bouton play
   if (statut==="start") {
